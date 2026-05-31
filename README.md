@@ -1,7 +1,8 @@
 # git-course-repository
 
-This is a repository for my Git basics course at Tampere University.
+This is a repository for my Git basics course at Tampere University.  
+It will only be used for completing the exercises of the course.  
 
-Course ID: COMP.CS.060
-Course page (as of 5/31/2026): https://opiskelijanopas.tuni.fi/en/tampere-university/curriculum/course-units/tut-cu-g-52196?year=2024
+Course ID: COMP.CS.060  
+Course page: https://opiskelijanopas.tuni.fi/en/tampere-university/curriculum/course-units/tut-cu-g-52196?year=2024  
  
